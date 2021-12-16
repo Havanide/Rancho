@@ -71,6 +71,7 @@
     <Compile Include="Assets\Scripts\CodeMonkey\Utils\UtilsClass.cs" />
     <Compile Include="Assets\Scripts\Character.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\MonoBehaviours\PositionRendererSorter.cs" />
+    <Compile Include="Assets\Scripts\GridBuildingSystem3D.cs" />
     <Compile Include="Assets\Scripts\LosePanel.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\MeshUtils.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\Grid\GridPrefabVisual.cs" />
@@ -80,23 +81,23 @@
     <Compile Include="Assets\Scripts\CodeMonkey\Mouse3D.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\Utils\FunctionTimer.cs" />
     <Compile Include="Assets\Scripts\DestroyObstacles.cs" />
+    <Compile Include="Assets\Scripts\BuildingGhost.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\Utils\UI_Bar.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\Grid\GridGradientVisual.cs" />
+    <Compile Include="Assets\Prefabs\SO\PlacedObjectTypeSO.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\MonoBehaviours\ComponentActions.cs" />
     <Compile Include="Assets\Scripts\ProgressBar.cs" />
+    <Compile Include="Assets\Prefabs\SO\BuildingSO.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\Utils\UI_Sprite.cs" />
+    <Compile Include="Assets\Scripts\PlacedObject_Done.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\Utils\UI_BarMultiple.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\Grid\GridXZ.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\Grid\Grid.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\CMDebug.cs" />
     <Compile Include="Assets\Scripts\CodeMonkey\Utils\FunctionPeriodic.cs" />
-    <Compile Include="Assets\Prefabs\SO\PlacedObjectTypeSO.cs" />
-    <Compile Include="Assets\Prefabs\SO\BuildingSO.cs" />
-    <Compile Include="Assets\Scripts\BuildingGhost.cs" />
-    <Compile Include="Assets\Scripts\GridBuildingSystem3D.cs" />
-    <Compile Include="Assets\Scripts\PlacedObject_Done.cs" />
+    <Compile Include="Assets\Scripts\CameraControllerIsometric.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Scripts\CodeMonkey\README.txt" />
